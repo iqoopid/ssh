@@ -1,0 +1,5 @@
+sudo apt install openssh-server
+
+sudo nano /etc/ssh/sshd_config
+
+sudo apt install openssh-client
